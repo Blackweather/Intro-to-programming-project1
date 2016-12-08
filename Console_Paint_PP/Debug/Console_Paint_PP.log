@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\users\karol\documents\visual studio 2015\projects\console_paint_pp\console_paint_pp\main.cpp(105): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+d:\users\karol\documents\visual studio 2015\projects\console_paint_pp\console_paint_pp\main.cpp(118): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  Console_Paint_PP.vcxproj -> d:\users\karol\documents\visual studio 2015\Projects\Console_Paint_PP\Debug\Console_Paint_PP.exe
+  Console_Paint_PP.vcxproj -> d:\users\karol\documents\visual studio 2015\Projects\Console_Paint_PP\Debug\Console_Paint_PP.pdb (Full PDB)
